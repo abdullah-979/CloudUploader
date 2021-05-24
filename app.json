@@ -8,9 +8,9 @@
         "manager",
         "bot"
     ],
-    "repository": "https://github.com/ToonsHub2006/Cloud-UPManager-Bot",
-    "website": "https://telegram.dog/ToonsHub2006",
-    "success_url": "https://t.me/Discovery_Updates",
+    "repository": "https://github.com/ToonsHub/CloudUploader",
+    "website": "https://github.com/ToonsHub2006",
+    "success_url": "https://www.toonshub.ml",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
