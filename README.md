@@ -1,5 +1,5 @@
 # Cloud-UPManager-Bot
-This is Telegram Cloud Uploads Manager Bot by [@AbirHasan2005](https://github.com/AbirHasan2005)
+This is Telegram Cloud Uploads Manager Bot by [@ToonsHub](https://github.com/ToonsHub)
 
 ## Features:
 - Upload Telegram Media to [GoFile.io](https://gofile.io/)
@@ -20,10 +20,7 @@ This is Telegram Cloud Uploads Manager Bot by [@AbirHasan2005](https://github.co
 - Add More Sites from Uploading
 
 ### Note:
-This is in Development Stage. So it will be buggy a lot. If you find any Bugs than please report that in [Telegram Group](https://t.me/linux_repo). Also Join [@AbirHasan2005](https://t.me/AbirHasan2005) for more updates.
-
-### Demo Bot:
-<a href="https://t.me/Cloud_UPManager_Bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+This is in Development Stage. So it will be buggy a lot.
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
@@ -42,20 +39,3 @@ This is in Development Stage. So it will be buggy a lot. If you find any Bugs th
 
 ### Deploy Now:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-### Support Group:
-<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-### Follow on:
-<p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
-</p>
